@@ -13,7 +13,7 @@ b）对应的函数为add_domain()
 ![Image text](https://github.com/labixiaoxinsuper/selenium_webdriver_GUI/blob/master/img-folder/3.png)    
 ![Image text](https://github.com/labixiaoxinsuper/selenium_webdriver_GUI/blob/master/img-folder/4.png)     
 当想要新建域名不存在的时候，那么点击“核对无误，确认提交”，就可以到“域名管理”的界面      
-当添加的域名已经存在的时候，会出现下面的确定弹出框。所以由此来进行判断，如果有此“确定”按钮，那么域名已经存在。然后点击“返回按钮”
+当添加的域名已经存在的时候，会出现下面的确定弹出框。所以由此来进行判断，如果有此“确定”按钮，那么域名已经存在。然后点击“返回按钮”     
 ![Image text](https://github.com/labixiaoxinsuper/selenium_webdriver_GUI/blob/master/img-folder/5.png) 
 ![Image text](https://github.com/labixiaoxinsuper/selenium_webdriver_GUI/blob/master/img-folder/6.png) 
 ![Image text](https://github.com/labixiaoxinsuper/selenium_webdriver_GUI/blob/master/img-folder/7.png)     
